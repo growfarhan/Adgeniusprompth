@@ -1,0 +1,7 @@
+{
+  "name": "AdGenius - Video Prompt Studio",
+  "description": "Aplikasi canggih untuk membuat prompt video promosi profesional berdasarkan referensi visual dan deskripsi produk, ditenagai oleh Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
